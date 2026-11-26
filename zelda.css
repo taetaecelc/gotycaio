@@ -1,0 +1,42 @@
+header{
+    background-color: rgb(16, 70, 12);
+    height: 150px;
+    padding: 20px 0;
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: beige;
+    font-size: 22px;
+    font-weight: bold;
+}
+nav{
+    position: absolute;
+    top: 30px;
+    right: 0;
+}
+footer{
+    text-align: center;
+    background-color: rgb(16, 70, 12);
+    padding: 20px 0;
+}
+body{
+    background-color: rgb(144, 207, 146);
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
